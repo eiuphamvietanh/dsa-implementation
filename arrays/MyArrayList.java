@@ -124,7 +124,7 @@ public class MyArrayList<T> {
         System.out.println(list); // [1, 2, 99, 3, 4, 5, 6, 7, 8, 9]
 
         System.out.println(list.contains(99)); // true
-        System.out.println(list.indexOf(5)); // đúng vị trí của 5
+        System.out.println(list.indexOf(5)); // 
 
     }
 }
